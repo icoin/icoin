@@ -3,7 +3,7 @@ Icoin
 
 See http://icoin.ch/ for more project information.
 
-Icoin is a peer to peer naming system based on the bitcoin fork namecoin.  It is a secure and censorship reistant json capable protocol.
+Icoin is a peer to peer naming system based on the bitcoin fork namecoin.  It is a secure and censorship resistant json capable protocol.
 
 Ownership of a name is based on ownership of a coin, which is in turn based on public key cryptography.  The icoin network reaches consensus every few minutes as to which names have been reserved or updated.
 
